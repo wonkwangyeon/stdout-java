@@ -7,6 +7,7 @@ Java version >= 17
 
 # Build
 > ctr -n=k8s.io images import stdout.tar
+
 Using container build
 ```
 docker build -t stdout:latest .
